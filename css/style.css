@@ -254,6 +254,15 @@ a {
         padding: 15px;
     }
 
+    .regras{
+        background-color: #adadad;
+    }
+
+    .regras h2{
+        font: 20px 'Roboto Flex', sans-serif;
+        font-weight: 600;
+    }
+
     .footer hr{
         background-color: #adadad;
         height: 2px;
