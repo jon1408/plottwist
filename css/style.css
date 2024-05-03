@@ -288,6 +288,10 @@ a {
         text-align: center;
     }
 
+    .texto-subfooter p{
+        font: 14px 'Roboto Flex', sans-serif;
+    }
+
     .direitos{
         padding: 25px 0 0;
         text-align: center;
