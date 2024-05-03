@@ -271,6 +271,11 @@ a {
         text-align: center;
     }
 
+    .titulo-footer{
+        font: 14px 'Roboto Flex', sans-serif;
+        font-weight: 600;
+    }
+
     .direitos{
         padding: 25px 0 0;
         text-align: center;
