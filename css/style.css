@@ -274,6 +274,7 @@ a {
     .titulo-footer{
         font: 14px 'Roboto Flex', sans-serif;
         font-weight: 600;
+        padding: 15px 0;
     }
 
     .direitos{
