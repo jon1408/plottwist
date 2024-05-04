@@ -274,6 +274,11 @@ a {
         font-weight: 600;
         color: black;
         cursor: pointer;
+        text-align: center;
+    }
+
+    .botao{
+        
     }
 
     .footer hr{
@@ -303,10 +308,6 @@ a {
 
     .texto-subfooter p{
         font: 14px 'Roboto Flex', sans-serif;
-        text-align: center;
-    }
-
-    .botao{
         text-align: center;
     }
 
