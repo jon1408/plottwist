@@ -256,7 +256,11 @@ a {
 
     .regras{
         background-color: #adadad;
+        font: 14px 'Roboto Flex', sans-serif;
+        font-weight: 600;
     }
+
+
 
     .regras h2{
         font: 20px 'Roboto Flex', sans-serif;
