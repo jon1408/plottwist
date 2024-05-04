@@ -270,6 +270,12 @@ a {
         display: flex;
     }
 
+    .lista-regra h3{
+        background-color: #000;
+        color: white;
+        border-radius: 50px;
+    }
+
     .regras button{
         width: 153px;
         height: 51px;
