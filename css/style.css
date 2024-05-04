@@ -281,6 +281,10 @@ a {
         padding: 5px;
     }
 
+    .lista-regra p{
+        text-transform: uppercase;
+    }
+
     .regras button{
         width: 153px;
         height: 51px;
