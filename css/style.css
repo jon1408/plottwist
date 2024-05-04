@@ -291,6 +291,10 @@ a {
         color: black;
         cursor: pointer;
         text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
     }
 
     .footer hr{
