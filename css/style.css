@@ -275,6 +275,8 @@ a {
         color: white;
         width: 20px;
         height: 20px;
+        border-radius: 50%;
+        text-align: center;
     }
 
     .regras button{
