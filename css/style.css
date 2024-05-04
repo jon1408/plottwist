@@ -303,6 +303,7 @@ a {
 
     .texto-subfooter p{
         font: 14px 'Roboto Flex', sans-serif;
+        text-align: center;
     }
 
     .direitos{
