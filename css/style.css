@@ -285,6 +285,10 @@ a {
         text-transform: uppercase;
     }
 
+    .flex-regras ul{
+        padding: 15px;
+    }
+
     .regras button{
         width: 153px;
         height: 51px;
