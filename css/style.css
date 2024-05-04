@@ -260,12 +260,14 @@ a {
         font-weight: 600;
     }
 
-
-
     .regras h2{
         font: 20px 'Roboto Flex', sans-serif;
         font-weight: 600;
         text-align: center;
+    }
+
+    .lista-regra{
+        display: flex;
     }
 
     .regras button{
