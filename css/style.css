@@ -269,6 +269,7 @@ a {
 
     .lista-regra{
         display: flex;
+        padding-top: 12px;
     }
 
     .lista-regra h3{
