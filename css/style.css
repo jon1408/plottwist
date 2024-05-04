@@ -273,7 +273,8 @@ a {
     .lista-regra h3{
         background-color: #000;
         color: white;
-        border-radius: 50px;
+        width: 20px;
+        height: 20px;
     }
 
     .regras button{
