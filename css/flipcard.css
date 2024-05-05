@@ -28,7 +28,7 @@
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
     transition: 1s ease-in-out;
-    -webkit-box-reflect: below 0 linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));
+    /*-webkit-box-reflect: below 0 linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));*/
 }
 
 .scene .card .card__face img {
@@ -40,4 +40,8 @@
 
 .scene .card .card__face--back {
     transform: rotateY(0.5turn);
+}
+
+@media only screen and (max-width: 768px){
+
 }
