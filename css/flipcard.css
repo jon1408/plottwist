@@ -2,7 +2,9 @@
     width: 1000px;
     display: flex;
     justify-content: space-between;
-    perspective: 800px;
+    text-align: center;
+    margin: auto;
+    perspective: 800px
 }
 
 .scene .card {
