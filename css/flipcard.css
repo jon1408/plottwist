@@ -1,16 +1,18 @@
 .scene {
-    width: 1000px;
+    width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    align-items: center;
     text-align: center;
-    margin: auto;
-    perspective: 800px
+    perspective: 800px;
+    background-color: #adadad;
+    padding: 50px 0;
 }
 
 .scene .card {
     position: relative;
-    width: 240px;
-    height: 300px;
+    width: 222px;
+    height: 336px;
     color: white;
     cursor: pointer;
     transition: 1s ease-in-out;
