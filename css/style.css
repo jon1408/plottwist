@@ -75,6 +75,11 @@ a {
         font: 1rem 'Roboto Flex', sans-serif;
     }
 
+    .div-hero{
+        display: flex;
+        
+    }
+
     .div-hero h1{
         font: 2.25rem 'Roboto Flex', sans-serif;
         width:  480px;
