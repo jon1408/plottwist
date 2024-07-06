@@ -68,6 +68,12 @@ a {
     height: 71px;
 }
 
+@media only screen and (min-width: 992px) {
+    .div-hero h1{
+        font: 3rem 'Roboto Flex', sans-serif;
+    }
+}
+
 @media only screen and (max-width: 768px) {
     .nav-menu {
         position: fixed;
