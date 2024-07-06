@@ -58,9 +58,10 @@ a {
 }
 
 .nav-link{
-    font-size: 1rem;
+    font: 1.5rem 'Roboto Flex', sans-serif;
     font-weight: 400;
     color: #000;
+
 }
 
 .nav-logo img{
@@ -69,13 +70,18 @@ a {
 }
 
 @media only screen and (min-width: 992px) {
+
+    .nav-link{
+        font: 1rem 'Roboto Flex', sans-serif;
+    }
+
     .div-hero h1{
         font: 3rem 'Roboto Flex', sans-serif;
     }
 
     .links{
         display: flex;
-    justify-content: space-evenly;
+        justify-content: space-evenly;
     }
     
 }
