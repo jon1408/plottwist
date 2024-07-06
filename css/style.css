@@ -80,6 +80,11 @@ a {
         width:  480px;
     }
 
+    .div-hero img{
+        width: 480px;
+        height: auto;
+    }
+
     .links{
         display: flex;
         justify-content: space-evenly;
