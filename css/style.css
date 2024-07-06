@@ -77,6 +77,7 @@ a {
 
     .div-hero h1{
         font: 3rem 'Roboto Flex', sans-serif;
+        width:  480px;
     }
 
     .links{
