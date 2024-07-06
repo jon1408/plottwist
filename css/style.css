@@ -78,6 +78,7 @@ a {
     .div-hero h1{
         font: 2.25rem 'Roboto Flex', sans-serif;
         width:  480px;
+        font-weight: 600;
     }
 
     .div-hero img{
