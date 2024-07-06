@@ -76,17 +76,16 @@ a {
     }
 
     .div-hero{
-        display: flex;
-        
+        display: none;
     }
 
-    .div-hero h1{
+    .div-hero-desk h1{
         font: 2.25rem 'Roboto Flex', sans-serif;
         width:  480px;
         font-weight: 600;
     }
 
-    .div-hero img{
+    .div-hero-desk img{
         width: 480px;
         height: auto;
     }
@@ -180,6 +179,10 @@ a {
         font-weight: 600;
         color: black;
         cursor: pointer;
+    }
+
+    .div-hero-desk{
+        display: none;
     }
 
     .sobre{
