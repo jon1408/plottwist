@@ -81,7 +81,10 @@ a {
 
     .div-hero-desk{
         display: flex;
+        justify-content: space-evenly;
+        align-items: center;
     }
+    
     .div-hero-desk h1{
         font: 2.25rem 'Roboto Flex', sans-serif;
         width:  480px;
