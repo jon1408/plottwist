@@ -72,6 +72,12 @@ a {
     .div-hero h1{
         font: 3rem 'Roboto Flex', sans-serif;
     }
+
+    .links{
+        display: flex;
+    justify-content: space-evenly;
+    }
+    
 }
 
 @media only screen and (max-width: 768px) {
