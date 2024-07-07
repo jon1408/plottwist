@@ -99,6 +99,7 @@ a {
     .div-hero-desk button{
         width: 210px;
         height: 55px;
+        margin-top: 20px;
         background-color: #D9D9D9;
         border: 2px solid black;
         border-radius: 5px;
