@@ -144,6 +144,10 @@ a {
         width: 580px;
     }
 
+    .estrutura{
+        display: none;
+    }
+
     .links{
         display: flex;
         justify-content: space-evenly;
@@ -264,6 +268,10 @@ a {
     }
 
     .sobre-desk{
+        display: none;
+    }
+
+    .estrutura-desk{
         display: none;
     }
 
