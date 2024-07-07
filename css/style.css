@@ -189,8 +189,8 @@ a {
     }
 
     .videos video{
-        width: 590px;
-        height: auto;
+        width: auto;
+        height: 590px;
         border-radius: 25px;
     }
 
