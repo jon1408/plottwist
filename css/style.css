@@ -239,6 +239,10 @@ a {
         font-family: 'Roboto Flex';
         font-weight: 600;
     }
+
+    .direitos p{
+        font: 14px 'Roboto Flex', sans-serif;
+    }
     
 }
 
