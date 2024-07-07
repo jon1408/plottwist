@@ -129,6 +129,7 @@ a {
         font: 20px 'Roboto Flex', sans-serif;
         font-weight: 600;
         color: white;
+        padding: 0 25px;
     }
 
     .sobre-desk p{
