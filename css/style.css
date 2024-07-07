@@ -188,6 +188,12 @@ a {
         align-items: center;
     }
 
+    .videos video{
+        width: 590px;
+        height: auto;
+        border-radius: 25px;
+    }
+
     .links{
         display: flex;
         justify-content: space-evenly;
