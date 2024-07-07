@@ -148,6 +148,12 @@ a {
         display: none;
     }
 
+    .estrutura-desk h2{
+        font: 32px 'Roboto Flex', sans-serif;
+        font-weight: 600;
+        text-align: center;
+    }
+
     .links{
         display: flex;
         justify-content: space-evenly;
