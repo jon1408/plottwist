@@ -148,6 +148,12 @@ a {
         display: none;
     }
 
+    .estrutural{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
     .estrutura-desk h2{
         font: 32px 'Roboto Flex', sans-serif;
         font-weight: 600;
@@ -155,10 +161,14 @@ a {
         margin: 25px 0;
     }
 
-    .estrutural{
-        display: flex;
-        justify-content: space-evenly;
-        align-items: center;
+    .block-estrutura h3{
+        font: 18px 'Roboto Flex', sans-serif;
+        font-weight: 600;
+    }
+
+    .block-estrutura p{
+        font: 16px 'Roboto Flex', sans-serif;
+        font-weight: 600;
     }
 
     .links{
