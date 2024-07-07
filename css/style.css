@@ -154,6 +154,12 @@ a {
         text-align: center;
     }
 
+    .estrutural{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
     .links{
         display: flex;
         justify-content: space-evenly;
