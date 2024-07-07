@@ -229,6 +229,11 @@ a {
         justify-content: space-evenly;
     }
 
+    .links img{
+        width: 50px;
+        height: 50px;
+    }
+
     .titulo-footer{
         font-family: 'Roboto Flex';
         font-weight: 600;
