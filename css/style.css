@@ -240,8 +240,15 @@ a {
         font-weight: 600;
     }
 
+    .direitos{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
     .direitos p{
         font: 14px 'Roboto Flex', sans-serif;
+        text-align: center;
     }
     
 }
