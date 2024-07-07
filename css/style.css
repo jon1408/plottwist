@@ -85,15 +85,35 @@ a {
         align-items: center;
     }
     
+    .div-hero-desk img{
+        width: 480px;
+        height: auto;
+    }
+
     .div-hero-desk h1{
         font: 2.25rem 'Roboto Flex', sans-serif;
         width:  480px;
         font-weight: 600;
     }
 
-    .div-hero-desk img{
-        width: 480px;
-        height: auto;
+    .div-hero-desk button{
+        width: 210px;
+        height: 55px;
+        background-color: #D9D9D9;
+        border: 2px solid black;
+        border-radius: 5px;
+        font: 16px 'Roboto Flex', sans-serif;
+        font-weight: 600;
+        color: black;
+        cursor: pointer;
+    }
+
+    .sobre{
+        display: none;
+    }
+
+    .sobre-desk{
+        display: flex;
     }
 
     .links{
