@@ -216,7 +216,8 @@ a {
     }
 
     .box-coment hr{
-        border: 2px solid #000;
+        background-color: #adadad;
+        height: 2px;
     }
 
     .box-coment p{
