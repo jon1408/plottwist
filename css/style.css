@@ -215,6 +215,10 @@ a {
         padding: 10px 0;
     }
 
+    .box-coment hr{
+        border: 2px solid #000;
+    }
+
     .box-coment p{
         font: 16px 'Roboto Flex', sans-serif;
     }
