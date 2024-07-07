@@ -194,6 +194,12 @@ a {
         border-radius: 25px;
     }
 
+    .box-coment{
+        background-color: #d9d9d9;
+        width: 380px;
+        height: auto;
+    }
+
     .links{
         display: flex;
         justify-content: space-evenly;
