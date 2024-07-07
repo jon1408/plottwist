@@ -240,6 +240,10 @@ a {
         font-weight: 600;
     }
 
+    .texto-subfooter p{
+        font: 16px 'Roboto Flex', sans-serif;
+    }
+
     .direitos{
         display: flex;
         justify-content: space-evenly;
