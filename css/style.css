@@ -250,6 +250,10 @@ a {
         font: 14px 'Roboto Flex', sans-serif;
         text-align: center;
     }
+
+    .direitos-dev{
+        display: flex;
+    }
     
 }
 
