@@ -192,6 +192,11 @@ a {
         display: flex;
         justify-content: space-evenly;
     }
+
+    .titulo-footer{
+        font-family: 'Roboto Flex';
+        font-weight: 600;
+    }
     
 }
 
