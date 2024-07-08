@@ -255,6 +255,10 @@ a {
         align-items: center;
     }
 
+    .lista-regra{
+        font: 16px 'Roboto Flex', sans-serif;
+    }
+
     .links{
         display: flex;
         justify-content: space-evenly;
