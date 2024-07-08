@@ -224,6 +224,10 @@ a {
         font: 16px 'Roboto Flex', sans-serif;
     }
 
+    .regras{
+        background-color: #D9D9D9;
+    }
+
     .regras h2{
         font: 32px 'Roboto Flex', sans-serif;
         font-weight: 600;
@@ -248,7 +252,6 @@ a {
         display: flex;
         justify-content: space-evenly;
         align-items: center;
-        background-color: #adadad;
     }
 
     .links{
