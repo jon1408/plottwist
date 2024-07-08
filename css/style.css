@@ -258,6 +258,7 @@ a {
     .lista-regra{
         font: 16px 'Roboto Flex', sans-serif;
         display: flex;
+        text-transform: uppercase;
     }
 
     .links{
